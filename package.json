@@ -1,0 +1,19 @@
+{
+  "name": "lab13",
+  "version": "1.0.0",
+  "description": "lab 13 for inf286",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bluezipGC/roger-doger.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Geoffrey",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2"
+  }
+}
